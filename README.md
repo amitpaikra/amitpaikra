@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm a passionate developer with a focus on **Backend Developer**.
 
 ## 📄 My Resume:
-[Download my Resume](https://github.com/yourusername/yourrepository/blob/main/resume.pdf)
+[Download my Resume]([https://github.com/yourusername/yourrepository/blob/main/resume.pdf](https://drive.google.com/file/d/1AgTsqNaOYWSknVnajUkFExzu2Ir6dUG2/view?usp=sharing))
 
 ## 🔧 Technologies & Tools
 
