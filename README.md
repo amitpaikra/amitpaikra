@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **Backe
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitpaikra&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 <!--
 ## 🔥 Pinned Repositories
